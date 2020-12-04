@@ -4,3 +4,7 @@ coverage-reports
 .pytest_cache
 htmlcov
 __pycache__
+.tmp
+coverage
+node_modules
+python/.coverage

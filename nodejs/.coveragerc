@@ -1,0 +1,2 @@
+[run]
+omit = tests/**/*.*,jest.config.js,/node_modules/**
