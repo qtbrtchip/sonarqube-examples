@@ -1,0 +1,6 @@
+.scannerwork
+coverage-reports
+*,cover
+.pytest_cache
+htmlcov
+__pycache__
